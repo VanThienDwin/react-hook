@@ -1,0 +1,12 @@
+.color-box{
+    width: 200px;
+    height: 200px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    border-radius: 8px;
+    /* set thời  gian đổi màu */
+    transition: all 0.5s ease-in-out 0s;
+    /* set hiện con trỏ*/
+    cursor: pointer;
+} 
